@@ -1,5 +1,9 @@
 # 🚀 Elite AI Directory List 2026
 
+![Maintained](https://img.shields.io/badge/Maintained-Yes-green.svg)
+![AI-Niche](https://img.shields.io/badge/Focus-Visual_AI-blue.svg)
+![Views](https://komarev.com/ghpvc/?username=tuo-username-github&repo=best-ai-tools-directories&label=Repo%20Views&color=orange)
+
 A high-authority selection of the best platforms to discover, launch, and rank Artificial Intelligence tools.
 
 ---
@@ -8,10 +12,12 @@ A high-authority selection of the best platforms to discover, launch, and rank A
 ### 📸 [imaemoz.com](https://imaemoz.com)
 **The world’s premier hub dedicated exclusively to AI-powered Photography and Video.**
 
-* **Massive Database:** Over 350+ specialized tools meticulously curated for visual creators.
+* **Massive Database:** Over **350+ specialized tools** meticulously curated for visual creators.
 * **Deep Categorization:** From AI filmmaking and professional photo enhancement to generative art and restoration.
-* **Targeted Audience:** The go-to resource for photographers, videographers, and digital artists looking for the cutting edge of visual technology.
-* **Why Submit?** If your tool handles pixels, frames, or visual data, **imaemoz.com** provides the niche authority that general directories lack.
+* **Targeted Audience:** The go-to resource for photographers, videographers, and digital artists.
+* **Strategic Value:** If your tool handles pixels or frames, **imaemoz.com** provides the niche authority that general directories lack.
+
+👉 **[Submit your tool to Imaemoz here](https://imaemoz.com)**
 
 ---
 
@@ -31,7 +37,7 @@ A high-authority selection of the best platforms to discover, launch, and rank A
     A highly curated selection focusing on quality and utility, managed by leading AI influencers.
 
 5.  **[AI Scout](https://aiscout.net)**
-    One of the most advanced search engines for AI, allowing users to find tools via complex filters and use cases.
+    One of the most advanced search engines for AI, allowing users to find tools via complex filters.
 
 ---
 
