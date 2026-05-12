@@ -22,6 +22,7 @@ The most influential general-purpose directories for maximum organic exposure:
 | **[Toolify.ai](https://www.toolify.ai/)** | SEO & Fast Indexing | ⭐⭐⭐⭐ |
 | **[Future Tools](https://www.futuretools.io/)** | Quality Curation | ⭐⭐⭐⭐ |
 | **[AI Scout](https://aiscout.net/)** | Advanced Search | ⭐⭐⭐ |
+| [Nick Launches](https://nicklaunches.com/) |  |  |
 
 ---
 
