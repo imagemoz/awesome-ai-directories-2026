@@ -27,7 +27,7 @@ The most influential general-purpose directories for maximum organic exposure:
 | **[Toolify.ai](https://www.toolify.ai/)** | SEO & Fast Indexing | ⭐⭐⭐⭐ |
 | **[Future Tools](https://www.futuretools.io/)** | Quality Curation | ⭐⭐⭐⭐ |
 | **[The Master of AI](https://themasterofai.com/)** | Categorized AI Software | ⭐⭐⭐⭐ |
-| **[Dirmoz](https://dirmoz.com/)** | B2B & Tech Insights | ⭐⭐⭐⭐ |
+| **[Citdir](https://citdir.com/)** | B2B & Tech Insights | ⭐⭐⭐⭐ |
 | **[AI Scout](https://aiscout.net/)** | Advanced Search | ⭐⭐⭐ |
 
 ---
