@@ -29,6 +29,7 @@ The most influential general-purpose directories for maximum organic exposure:
 | **[The Master of AI](https://themasterofai.com/)** | Categorized AI Software | ⭐⭐⭐⭐ |
 | **[Citdir](https://citdir.com/)** | B2B & Tech Insights | ⭐⭐⭐⭐ |
 | **[AI Scout](https://aiscout.net/)** | Advanced Search | ⭐⭐⭐ |
+| **[51发现导航](https://51cgw9.cc/)** | Chinese AI tools + mainland-access labels | ⭐⭐⭐ |
 
 ---
 
