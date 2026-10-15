@@ -24,6 +24,7 @@ The most influential general-purpose directories for maximum organic exposure:
 | :--- | :--- | :--- |
 | **[Futurepedia](https://www.futurepedia.io/)** | General Discovery | ⭐⭐⭐⭐⭐ |
 | **[There's An AI For That](https://theresanaiforthat.com/)** | Largest Database | ⭐⭐⭐⭐⭐ |
+| **[AI Tools Radar](https://aitoolsradar.com/)** | Tools + Industry News | Not independently rated |
 | **[Toolify.ai](https://www.toolify.ai/)** | SEO & Fast Indexing | ⭐⭐⭐⭐ |
 | **[Future Tools](https://www.futuretools.io/)** | Quality Curation | ⭐⭐⭐⭐ |
 | **[The Master of AI](https://themasterofai.com/)** | Categorized AI Software | ⭐⭐⭐⭐ |
