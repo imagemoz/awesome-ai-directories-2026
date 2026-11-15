@@ -18,6 +18,8 @@ A dedicated directory focusing strictly on AI-powered photography and image gene
 ---
 
 ## 📂 Global Market Leaders
+
+- [No Stairs Please MCP](https://nostairsplease.com/mcp) — Live music venue & stage accessibility MCP directory across all 50 US states ([nostairsplease.com](https://nostairsplease.com/)).
 The most influential general-purpose directories for maximum organic exposure:
 
 | Directory | Best For... | Authority |
